@@ -1,5 +1,5 @@
 # 💫 About Me:
-Exploring Computer Vision and Machine Learning.<br>Currently learning MERN stack and Blockchain.<br>My Portfolio: https://knight-night-portfolio.netlify.app/<br>PS: You can either find me reading a novel or sleeping whenever I am free.<br>
+Exploring Computer Vision and Machine Learning.<br>Currently learning MERN stack and Blockchain.<br>My Portfolio: https://knight-night-portfolio.netlify.app/<br>
 
 
 ## 🌐 Socials:
