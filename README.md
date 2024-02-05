@@ -1,5 +1,5 @@
 # 💫 About Me:
-Exploring Computer Vision and Machine Learning.<br>Currently learning MERN stack and Blockchain.<br>My Portfolio: https://knight-night-portfolio.netlify.app/<br>
+I'm a computer science student pursuing my Bachelors and Masters at IIIT Bangalore. I have worked on full-stack, machine learning and computer vision projects - building web apps using MERN and Spring Boot, implementing LSTM models for image captioning, adversarial attacks on object detectors and anomaly detection systems. I'm proficient in Python, JavaScript, C++ and frameworks like PyTorch, TensorFlow and Scikit-Learn. My GitHub hosts some of my best software, ML and data science projects I've worked on so far. I'm passionate about developing impactful products and research at the intersection of software and AI.<br>My Portfolio: https://knight-night-portfolio.netlify.app/<br>
 
 
 ## 🌐 Socials:
